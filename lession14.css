@@ -1,0 +1,40 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+#all{
+	width: 400px;
+	height: 300px;
+	border: 6px double;
+	margin: auto;
+	padding: 10px;
+}
+.header{
+	width: 350px;
+	height: 80px;
+	background: #1ECFDF;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	border: 2px solid grey;
+	margin: auto;
+	margin-bottom: 5px; 
+}
+.content{
+	width: 350px;
+	height: 100px;
+	background: #1ECFDF;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	border: 2px solid grey;
+	margin: auto;
+	margin-bottom: 5px;
+}
+.footer{
+	width: 350px;
+	height: 80px;
+	background: #1ECFDF;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	border: 2px solid grey;
+	margin: auto;
+}
